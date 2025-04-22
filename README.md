@@ -75,7 +75,7 @@
 <!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
 
 ## 🎒 Образование
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса»">](https://raw.githubusercontent.com/ViktoriaGubanova/ViktoriaGubanova/refs/heads/main/certificate.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Сертификат о прохождении курса»">](https://raw.githubusercontent.com/ViktoriaGubanova/ViktoriaGubanova/refs/heads/main/certificate.png)
 
 <br>
 <br>
